@@ -77,7 +77,7 @@ public void draw ( Graphics2D g )
 // by projecting where the ends meet
 
 float arrowRatio = 0.5f;
-float arrowLength = 80.0f;
+float arrowLength = 70.0f;//80 originally
 
 BasicStroke stroke = ( BasicStroke ) g.getStroke();
 
