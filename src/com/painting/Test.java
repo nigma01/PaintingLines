@@ -128,8 +128,8 @@ public void draw ( Graphics2D g )
 // as we're filling rather than stroking, control point is at the apex,
 
 float arrowRatio = 0.5f;
-float arrowLength = 60.0f;
-//float arrowLength = 80.0f;
+float arrowLength = 85.0f;
+//float arrowLength = 80.0f originalmente;
 
 BasicStroke stroke = ( BasicStroke ) g.getStroke();
 
